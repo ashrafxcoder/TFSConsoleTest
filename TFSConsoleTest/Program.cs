@@ -10,6 +10,7 @@ namespace TFSConsoleTest
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello Git");
         }
     }
 }
